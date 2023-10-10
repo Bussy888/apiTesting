@@ -1,4 +1,4 @@
-package JSONComparatorTest;
+package tareaComparatorTest;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
